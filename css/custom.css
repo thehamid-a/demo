@@ -1,0 +1,20 @@
+
+body{
+    font-family:sofia-pro, sans-serif ;
+    background-color: #fff;
+    color: #000;
+}
+
+.container{
+    max-width: 1440px;
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+
+li{
+    list-style-type: none;
+}
