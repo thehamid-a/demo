@@ -4,16 +4,19 @@
   .overview-box {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     .overview-box-left {
       width: 50%;
+      
       h2 {
         font-size: 30px;
         font-weight: 500;
-        line-height: 36.31px;
+        line-height: 50px;
         letter-spacing: 0.02em;
         width: 441px;
         height: 84px;
         margin-bottom: 38px;
+        color: rgba(1, 22, 39, 1);
       }
       p {
         font-size: 18px;
@@ -23,6 +26,7 @@
         width: 464px;
         height: 91px;
         margin-bottom: 47px;
+        color: rgba(1, 22, 39, 1);
       }
       ul {
         display: flex;
@@ -36,6 +40,7 @@
           line-height: 30px;
           letter-spacing: 0.02em;
           color: rgba(1, 22, 39, 1);
+          margin-left: 8px;
             }
           
         }
