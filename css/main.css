@@ -30,11 +30,14 @@
         row-gap: 19px;
         margin-bottom: 52px;
         li {
-          font-size: 18px;
+            a{
+                font-size: 18px;
           font-weight: 400;
           line-height: 30px;
           letter-spacing: 0.02em;
           color: rgba(1, 22, 39, 1);
+            }
+          
         }
       }
       .data-box {
@@ -105,12 +108,14 @@
           border: 1px solid rgba(46, 196, 182, 1);
           padding: 20px;
           margin-bottom: 30px;
+          box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.06);
+
 
           .image {
             width: 100px;
             height: 100px;
             border-radius: 13px;
-            background-color: rgba(255, 236, 234, 1);
+            background-color:rgba(210, 255, 251, 1);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -151,6 +156,8 @@
           border: 1px solid rgba(231, 29, 54, 0.6);
           padding: 20px;
           margin-bottom: 30px;
+          box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.06);
+
 
           .image {
             width: 100px;
@@ -201,12 +208,14 @@
           border: 1px solid rgba(46, 196, 182, 1);
           padding: 20px;
           margin-bottom: 30px;
+          box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.06);
+
 
           .image {
             width: 100px;
             height: 100px;
             border-radius: 13px;
-            background-color: rgba(255, 236, 234, 1);
+            background-color: rgba(210, 255, 251, 1);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -247,6 +256,8 @@
           border: 1px solid rgba(231, 29, 54, 0.6);
           padding: 20px;
           margin-bottom: 30px;
+          box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.06);
+
 
           .image {
             width: 100px;
